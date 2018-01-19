@@ -112,7 +112,7 @@ class SearchByProduct extends Component {
     handleChange = (e) => {
         console.log(e.target.value)
         this.setState({inputText: e.target.value })// eslint-disable-line no-restricted-globals
-      }
+    }
   render() {
   
     return (
