@@ -40,7 +40,7 @@ const TiledItem = styled.li`
             & a {
                 transition: background-color 0.5s ease;
                 background-color: rgba(0,0,0,1);
-            }
+        }
         
     }
     
